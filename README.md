@@ -7,6 +7,8 @@ my notebooks of data science &amp; visualization projects for #TidyTuesday a wee
 
 ![Number of Medals over Time line graph, showing gold, silver, and bronze results](https://github.com/mkgreen/TidyTuesdayNotebooks-mkgreen/blob/main/noMedalsoverTime.png?raw=true)
 
+<img width="1375" alt="Screenshot 2024-08-08 at 12 17 48 AM" src="https://github.com/user-attachments/assets/c8851a1f-0e21-4019-be2b-f1e46ee14855">
+
 |variable |class     |description |
 |:--------|:---------|:-----------|
 |id       |double    | Athlete ID |
