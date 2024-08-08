@@ -3,8 +3,10 @@
 August 6, 2024. #TidyTuesday a weekly social data project hosted by [@rfordatascience](https://github.com/rfordatascience/tidytuesday)
 
 ---
-[Olympic Visualization - TidyTuesday 08-06-2024](https://github.com/mkgreen/TidyTuesdayNotebooks-mkgreen/blob/main/TidyTuesOlympicData_8_6_2024.ipynb)
-- [Olympic Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/)
+## 🐍 Olympic Analysis Python Notebook:
+- ### 🏆 [Olympic Visualization - TidyTuesday 08-06-2024](https://github.com/mkgreen/TidyTuesdayNotebooks-mkgreen/blob/main/TidyTuesOlympicData_8_6_2024.ipynb)
+
+- ### 🧮 [Olympic Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/)
 
 ![Number of Medals over Time line graph, showing gold, silver, and bronze results](https://github.com/mkgreen/TidyTuesdayNotebooks-mkgreen/blob/main/noMedalsoverTime.png?raw=true)
 
